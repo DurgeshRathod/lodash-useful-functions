@@ -1,0 +1,22 @@
+{
+  "name": "lodash-useful-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DurgeshRathod/lodash-useful-functions.git"
+  },
+  "author": "Durgesh Rathod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DurgeshRathod/lodash-useful-functions/issues"
+  },
+  "homepage": "https://github.com/DurgeshRathod/lodash-useful-functions#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
